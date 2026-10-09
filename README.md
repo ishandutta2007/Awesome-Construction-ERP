@@ -63,6 +63,7 @@ Explore proven open-source ERP systems, framework bases, and construction-specif
 | **Apache OFBiz** | [apache/ofbiz](https://github.com/apache/ofbiz) | [![Stars](https://img.shields.io/github/stars/apache/ofbiz?style=social&color=white)](https://github.com/apache/ofbiz/stargazers) | Enterprise automation software framework for custom ERP, job accounting, asset maintenance, and inventory workflows. |
 | **Tryton** | [tryton/tryton](https://github.com/tryton/tryton) | [![Stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers) | Modular 3-tier open-source business application platform suited for custom job costing ledgers. |
 | **BuildSuite Core** | [BuildSuite-io/buildsuite_core](https://github.com/BuildSuite-io/buildsuite_core) | [![Stars](https://img.shields.io/github/stars/BuildSuite-io/buildsuite_core?style=social&color=white)](https://github.com/BuildSuite-io/buildsuite_core/stargazers) | Open-source construction OS on Frappe—handles work packages, stage gates, and site governance. |
+| **OpenBooks** | [braedonsaunders/openbooks](https://github.com/braedonsaunders/openbooks) | [![Stars](https://img.shields.io/github/stars/braedonsaunders/openbooks?style=social&color=white)](https://github.com/braedonsaunders/openbooks/stargazers) | Accounting-first construction ERP with PostgreSQL double-entry ledger, job costing, WIP, invoices, bills, inventory, and multi-entity support (AGPL-3.0). |
 
 ---
 
